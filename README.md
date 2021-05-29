@@ -5,4 +5,4 @@ Supppose Taxi drivers can pick up customers from any location. When they do not 
 
 When fined fare from each location to another, probability of pick up customer at each location, and probability of a customer wanting to go from location A to B, this problem can be solved by policy iteration
 
-With defined transition probability and action rules (can be replaced for different problem), the MDP solution is in the file taxi_MDP_model_policy_Iteration.py
+With defined transition probability and action rules (can be replaced for different problem), the MDP solution is in the file taxi_MDP_model_policy_Iteration.py 
