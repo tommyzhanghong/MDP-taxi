@@ -1,5 +1,5 @@
 # MDP
-a toy problem to demostrate Markov Decision Process (MDP)
+##a toy problem to demostrate Markov Decision Process (MDP)
 
 Supppose Taxi drivers can pick up customers from any location. When they do not have any customers onboard, taxi drivers need to go somewhere to search for customers. Here we aim to solve this problem using MDP
 
